@@ -5,7 +5,7 @@ public class Main {
       Papa padres= new Papa();
         padres.crearDecendencia(123,"oscar");
         padres.crearDecendencia(1233,"oscarrr");
-        //padres.estadoDelSer();
+        //apadres.estadoDelSer();
 
 Papa paqueteCartas1= new Papa();
         paqueteCartas1.crearDecendencia(1,"a");
